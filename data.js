@@ -59,7 +59,7 @@ const CANDIDATES = [
   { id: "m03", name: "BTS (방탄소년단)", group: "2013년 데뷔", song: "피 땀 눈물 (Blood Sweat & Tears)", gender: "male", youtubeId: "hmE9f-TEutc", start: 0 },
   { id: "m04", name: "EXO (엑소)", group: "2012년 데뷔", song: "으르렁 (Growl)", gender: "male", youtubeId: "I3dezFzsNss", start: 0 },
   { id: "m05", name: "EXO (엑소)", group: "2012년 데뷔", song: "Love Shot", gender: "male", youtubeId: "pSudEWBAYRE", start: 0 },
-  { id: "m06", name: "EXO (엑소)", group: "2012년 데뷔", song: "CALL ME BABY", gender: "male", youtubeId: "yWfsla_Uh80", start: 0 },
+  { id: "m06", name: "EXO (엑소)", group: "2012년 데뷔", song: "Monster", gender: "male", youtubeId: "KSH-FVVtTf0", start: 0 },
   { id: "m07", name: "SEVENTEEN (세븐틴)", group: "2015년 데뷔", song: "아주 NICE (VERY NICE)", gender: "male", youtubeId: "KvA9T3MputA", start: 0 },
   { id: "m08", name: "SEVENTEEN (세븐틴)", group: "2015년 데뷔", song: "울고 싶지 않아 (Don't Wanna Cry)", gender: "male", youtubeId: "zEkg4GBQumc", start: 0 },
   { id: "m09", name: "GOT7 (갓세븐)", group: "2014년 데뷔", song: "딱 좋아 (Just Right)", gender: "male", youtubeId: "vrdk3IGcau8", start: 0 },
@@ -75,7 +75,7 @@ const CANDIDATES = [
   { id: "m19", name: "NCT 127", group: "2016년 데뷔", song: "Cherry Bomb", gender: "male", youtubeId: "WkuHLzMMTZM", start: 0 },
   { id: "m20", name: "NCT DREAM", group: "2016년 데뷔", song: "BOOM", gender: "male", youtubeId: "X-iJZ0gfKPo", start: 0 },
   { id: "m21", name: "NCT DREAM", group: "2016년 데뷔", song: "맛 (Hot Sauce)", gender: "male", youtubeId: "PkKnp4SdE-w", start: 0 },
-  { id: "m22", name: "MONSTA X (몬스타엑스)", group: "2015년 데뷔", song: "HERO", gender: "male", youtubeId: "FZ9lJ5ctd0s", start: 0 }, // 일반 드라마형 MV가 아닌 옥상 퍼포먼스 형식이지만, 이 곡의 공식 MV(스타쉽 공식 채널)로 쓰이는 영상
+  { id: "m22", name: "MONSTA X (몬스타엑스)", group: "2015년 데뷔", song: "Shoot Out", gender: "male", youtubeId: "MS10Zz49FHE", start: 0 },
   { id: "m23", name: "MONSTA X (몬스타엑스)", group: "2015년 데뷔", song: "DRAMARAMA", gender: "male", youtubeId: "xxwZe6QUqU0", start: 0 },
   { id: "m24", name: "Wanna One (워너원)", group: "2017년 데뷔", song: "에너제틱 (Energetic)", gender: "male", youtubeId: "EVaV7AwqBWg", start: 0 },
   { id: "m25", name: "Wanna One (워너원)", group: "2017년 데뷔", song: "Beautiful", gender: "male", youtubeId: "o4_tHTmniw4", start: 0 }, // 공식 MV (Movie ver.)

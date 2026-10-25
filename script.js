@@ -125,13 +125,11 @@
   }
 
   function updatePoolInfo() {
-    const n = Number(roundSelect.value);
-    const half = n / 2;
     const fTeams = teamCount(byGender(CANDIDATES, "female"));
     const mTeams = teamCount(byGender(CANDIDATES, "male"));
     poolInfo.textContent =
-      `여돌 ${fTeams}팀 ${state.poolFemaleTotal}곡 · 남돌 ${mTeams}팀 ${state.poolMaleTotal}곡 중, ` +
-      `무작위로 여돌 ${half}곡 + 남돌 ${half}곡, 총 ${n}곡의 뮤비가 대결합니다.`;
+      `여돌 ${fTeams}팀·남돌 ${mTeams}팀, 총 ${fTeams + mTeams}팀의 대표곡 뮤비가 랜덤으로 등장해 대결합니다. ` +
+      `여돌 ${state.poolFemaleTotal}곡·남돌 ${state.poolMaleTotal}곡, 총 ${CANDIDATES.length}곡이 출전합니다.`;
   }
 
   roundSelect.addEventListener("change", updatePoolInfo);
