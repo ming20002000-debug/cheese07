@@ -35,7 +35,7 @@ script.js    토너먼트 진행 로직 (건드릴 필요 없음)
 - 전부 공식 뮤직비디오 기준이고, 각 영상은 유튜브 oEmbed(`title`/`author_name`)로 실제 그룹·곡·공식 채널과 일치하는지 확인했습니다.
 - 확인 과정에서 나온 예외/참고 사항:
   - OH MY GIRL "Dolphin"은 타이틀곡이 아니라 정식 MV가 없어서, 공식 채널의 "Special Clip" 영상을 넣었습니다.
-  - OH MY GIRL "비밀정원(Secret Garden)"은 1theK 공식 MV가 맞지만 유튜브 쪽 조회가 막혀 있어(퍼가기 제한 가능성) 사이트에서 재생이 안 될 수 있습니다.
+  - OH MY GIRL "비밀정원(Secret Garden)"은 처음 넣은 링크가 비공개 영상이라, 1theK의 다른 공식 MV 업로드로 교체했습니다.
   - MAMAMOO "데칼코마니"는 2016년 원본 MV가 내려간 뒤 다시 공개된 공식 MV(STONE MUSIC)입니다.
   - BTOB "Only One for Me"의 한국어 제목은 "너 없인 안 된다"입니다.
   - GFRIEND "오늘부터 우리는(Me Gustas Tu)"는 1theK 업로드가 삭제되어, 여자친구 공식 채널 MV로 넣었습니다.

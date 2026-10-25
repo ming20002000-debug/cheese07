@@ -30,7 +30,7 @@ const CANDIDATES = [
   { id: "f08", name: "BLACKPINK (블랙핑크)", group: "2016년 데뷔", song: "Kill This Love", gender: "female", youtubeId: "2S24-y0Ij3Y", start: 0 },
   { id: "f09", name: "Red Velvet (레드벨벳)", group: "2014년 데뷔", song: "Psycho", gender: "female", youtubeId: "uR8Mrt1IpXg", start: 0 },
   { id: "f10", name: "Red Velvet (레드벨벳)", group: "2014년 데뷔", song: "빨간 맛 (Red Flavor)", gender: "female", youtubeId: "WyiIGEHQP8o", start: 0 },
-  { id: "f11", name: "Red Velvet (레드벨벳)", group: "2014년 데뷔", song: "Bad Boy", gender: "female", youtubeId: "J_CFBjAyPWE", start: 0 },
+  { id: "f11", name: "Red Velvet (레드벨벳)", group: "2014년 데뷔", song: "러시안 룰렛 (Russian Roulette)", gender: "female", youtubeId: "QslJYDX3o8s", start: 0 },
   { id: "f12", name: "MAMAMOO (마마무)", group: "2014년 데뷔", song: "음오아예 (Um Oh Ah Yeh)", gender: "female", youtubeId: "ELM-OpqiiZU", start: 0 },
   { id: "f13", name: "MAMAMOO (마마무)", group: "2014년 데뷔", song: "별이 빛나는 밤 (Starry Night)", gender: "female", youtubeId: "0FB2EoKTK_Q", start: 0 },
   { id: "f14", name: "MAMAMOO (마마무)", group: "2014년 데뷔", song: "데칼코마니 (Décalcomanie)", gender: "female", youtubeId: "y2OFPvYxZuY", start: 0 }, // 2016년 원본 MV는 내려가고 재공개된 공식 MV(STONE MUSIC)
@@ -41,7 +41,7 @@ const CANDIDATES = [
   { id: "f19", name: "GFRIEND (여자친구)", group: "2015년 데뷔", song: "유리구슬 (Glass Bead)", gender: "female", youtubeId: "vKMeRMAVaDw", start: 0 },
   { id: "f20", name: "OH MY GIRL (오마이걸)", group: "2015년 데뷔", song: "살짝 설렜어 (Nonstop)", gender: "female", youtubeId: "iDjQSdN_ig8", start: 0 },
   { id: "f21", name: "OH MY GIRL (오마이걸)", group: "2015년 데뷔", song: "Dolphin", gender: "female", youtubeId: "oaRTMjLdiDw", start: 0 }, // Dolphin은 타이틀곡이 아니라 정식 MV가 없음 — 공식 채널의 "Special Clip"으로 대체
-  { id: "f22", name: "OH MY GIRL (오마이걸)", group: "2015년 데뷔", song: "비밀정원 (Secret Garden)", gender: "female", youtubeId: "QIN5_tJRiyY", start: 0 }, // 1theK 공식 MV가 맞지만 oEmbed 조회가 막혀 있어(퍼가기 제한 가능성) 사이트에서 재생 안 될 수 있음
+  { id: "f22", name: "OH MY GIRL (오마이걸)", group: "2015년 데뷔", song: "비밀정원 (Secret Garden)", gender: "female", youtubeId: "xz0dS2b8Hy4", start: 0 }, // 처음 넣은 링크(QIN5_tJRiyY)가 비공개 영상이라 1theK의 다른 공식 업로드로 교체
   { id: "f23", name: "WJSN (우주소녀)", group: "2016년 데뷔", song: "이루리 (As You Wish)", gender: "female", youtubeId: "Q93dY2qeMeU", start: 0 },
   { id: "f24", name: "WJSN (우주소녀)", group: "2016년 데뷔", song: "비밀이야 (Secret)", gender: "female", youtubeId: "5m2KBDBueAM", start: 0 },
   { id: "f25", name: "I.O.I (아이오아이)", group: "2016년 데뷔", song: "너무너무너무 (Very Very Very)", gender: "female", youtubeId: "GdxvD7r58ng", start: 0 },
@@ -74,7 +74,7 @@ const CANDIDATES = [
   { id: "m18", name: "NCT 127", group: "2016년 데뷔", song: "영웅 (Kick It)", gender: "male", youtubeId: "2OvyA2__Eas", start: 0 },
   { id: "m19", name: "NCT 127", group: "2016년 데뷔", song: "Cherry Bomb", gender: "male", youtubeId: "WkuHLzMMTZM", start: 0 },
   { id: "m20", name: "NCT DREAM", group: "2016년 데뷔", song: "BOOM", gender: "male", youtubeId: "X-iJZ0gfKPo", start: 0 },
-  { id: "m21", name: "NCT DREAM", group: "2016년 데뷔", song: "맛 (Hot Sauce)", gender: "male", youtubeId: "PkKnp4SdE-w", start: 0 },
+  { id: "m21", name: "NCT DREAM", group: "2016년 데뷔", song: "Ridin'", gender: "male", youtubeId: "vofjeJvRT9c", start: 0 },
   { id: "m22", name: "MONSTA X (몬스타엑스)", group: "2015년 데뷔", song: "Shoot Out", gender: "male", youtubeId: "MS10Zz49FHE", start: 0 },
   { id: "m23", name: "MONSTA X (몬스타엑스)", group: "2015년 데뷔", song: "DRAMARAMA", gender: "male", youtubeId: "xxwZe6QUqU0", start: 0 },
   { id: "m24", name: "Wanna One (워너원)", group: "2017년 데뷔", song: "에너제틱 (Energetic)", gender: "male", youtubeId: "EVaV7AwqBWg", start: 0 },
